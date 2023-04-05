@@ -6,7 +6,7 @@ Sample code for running Autoencoders on MNIST dataset using Keras
 
 <table>
   <tr>
-    <td>PyYAT</td>
+    <td>Autoencoders</td>
   </tr>
   <tr>
     <td><img src="https://www.apriorit.com/wp-content/uploads/2022/07/figure-5-1.png" width=640 height=360></td>
